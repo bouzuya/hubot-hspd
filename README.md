@@ -2,6 +2,8 @@
 
 A Hubot script that list hubot-script-per-day
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140922/20140922000404.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-hspd.git
